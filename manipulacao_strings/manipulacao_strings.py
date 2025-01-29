@@ -4,7 +4,7 @@
 # Solicita o nome do usuário
 nome = input('Digite seu nome: ')
 
-# Verifica se ambos os campos foram preenchidos
+# Verifica se o campos foi preenchidos
 if nome:
     # Exibe o nome do usuário
     print(f'Seu nome é {nome}')
